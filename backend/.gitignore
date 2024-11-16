@@ -1,0 +1,14 @@
+# Backend specific files/folders
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment files (if any)
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
